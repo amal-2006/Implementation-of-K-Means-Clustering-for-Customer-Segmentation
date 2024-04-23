@@ -47,7 +47,8 @@ plt.plot(range(1,11),wcss)
 plt.xlabel("No. of Clusters")
 plt.ylabel("wcss")
 plt.title("Elbow Method")
-
+```
+```
 km = KMeans(n_clusters = 5)
 km.fit(data.iloc[:,3:])
 
