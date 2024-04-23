@@ -1,4 +1,4 @@
-# Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+# Implementation of K Means Clustering for Customer Segmentation
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
@@ -17,13 +17,13 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: 
-RegisterNumber:  
+Developed by: 212223230012
+RegisterNumber:  AMALJOSH MAADHAV J
 */
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+
 
 
 ## Result:
