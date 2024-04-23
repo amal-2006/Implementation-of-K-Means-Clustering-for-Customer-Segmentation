@@ -72,7 +72,22 @@ plt.title("Customers Segments")
 ```
 
 ## Output:
+### Dataset
+![image](https://github.com/amal-2006/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/148410730/e8603cec-123b-4d18-b875-90fc621b61ea)
 
+### Dataset information
+![image](https://github.com/amal-2006/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/148410730/3cffe4fb-91f4-43d1-b78f-0c869e19648d)
+
+![image](https://github.com/amal-2006/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/148410730/16b7e63b-f2ef-43dc-baa3-2f506f4e19ac)
+
+### Elbow Method
+![image](https://github.com/amal-2006/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/148410730/7ce56d51-19b5-467d-9ca4-4d290967552d)
+
+### y_pred
+![image](https://github.com/amal-2006/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/148410730/7fbac409-1c9a-49dd-b11e-e2e5e20f2687)
+
+### Cluster representing customer-segment graph
+![image](https://github.com/amal-2006/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/148410730/6cf1f431-85f7-48fc-853a-069ca74190b2)
 
 
 ## Result:
